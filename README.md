@@ -1,4 +1,4 @@
-# RIVER.C
+# River.c
 
 By Caesar Ababneh
 
